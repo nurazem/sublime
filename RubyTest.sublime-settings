@@ -1,0 +1,4 @@
+{
+  "run_rspec_command": "./bin/rspec {relative_path} --format d",
+  "run_single_rspec_command": "./bin/rspec {relative_path}:{line_number} --format d"
+}

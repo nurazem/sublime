@@ -1,0 +1,4 @@
+{
+	"last_test_run": "./bin/rspec spec/controllers/users_controller_spec.rb:99 --format d",
+	"last_test_working_dir": "/Users/nurazem/src/intercom"
+}
