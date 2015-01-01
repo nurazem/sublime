@@ -4,53 +4,14 @@
 	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		".tags*",
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.a",
-		"*.lib",
-		"*.log",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		"*.class",
-		"*.psd",
-		"*.db",
-		"*.pdf"
-	],
-	"folder_exclude_patterns":
-	[
-		"data",
-		".zeus.sock",
-		".git",
-		".svn",
-		".hg",
-		"CVS",
-		".sass-cache",
-		".bundle",
-		"bundle",
-		".rbx",
-		"script",
-		"tmp"
-	],
+	"fade_fold_buttons": false,
 	"font_face": "Inconsolata",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": false,
 	"show_minimap": false,
 	"tab_completion": true,
 	"tab_size": 2,
@@ -59,5 +20,15 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
-	"wide_caret": true
+	"wide_caret": true,
+	"ignored_packages":
+	[
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		".bundle",
+		"bundle"
+	]
 }
