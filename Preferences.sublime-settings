@@ -1,16 +1,31 @@
 {
-	"auto_complete_commit_on_tab": true,
 	"caret_style": "blink",
 	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"folder_exclude_patterns": [
+		".git",
+		".sass-cache",
+		".bundle",
+		".project",
+		".classpath",
+		"bundle"
+	],
+	"file_exclude_patterns": [
+		"*.pyc",
+		".project",
+		".classpath",
+		".DS_Store",
+		"*.sublime-workspace"
+	],
 	"font_face": "Inconsolata",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"ignored_packages": [],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"match_brackets": false,
 	"show_minimap": false,
 	"tab_completion": true,
@@ -20,15 +35,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
-	"wide_caret": true,
-	"ignored_packages":
-	[
-	],
-	"folder_exclude_patterns":
-	[
-		".git",
-		".sass-cache",
-		".bundle",
-		"bundle"
-	]
+	"wide_caret": true
 }
