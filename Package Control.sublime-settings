@@ -2,11 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -25,9 +20,18 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
+		"SublimeLinter-python",
 		"Theme - Cobalt2",
-		"Theme - Soda",
-		"Theme - Spacegray",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"AngularJS",
+		"SideBarGit",
+		"Emmet",
+		"Rails​Casts Colour Scheme",
+		"Javascript Beautify",
+		"Color Highlighter",
+		"Github Tools",
+		"DocBlockr",
+		"Twitter Bootstrap Snippets",
+
 	]
 }
